@@ -5,7 +5,7 @@ import vit3 from "../../assets2/news6.jpg"
 import vit4 from "../../assets2/news3.jpeg"
 import vit5 from "../../assets2/news2.jpg"
 import vit6 from "../../assets2/news1.jpg"
-import "./article.css"
+
 
 const Campus = () => {
     return (
