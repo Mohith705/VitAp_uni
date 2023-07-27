@@ -1,4 +1,4 @@
-import Article from "../../components/article/article"
+import Article from "../../components/Article/Article"
 import "./campus.css"
 
 const Campus = () => {
